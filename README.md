@@ -1,7 +1,7 @@
 # Customer_behaviour_analysis
 Data analytics project showcasing customer behaviour analysis python ,sql and power bi 
 
-📊 # <u>CUSTOMER BEHAVIOUR DASHBOARD</u>
+## 📊  <u>CUSTOMER BEHAVIOUR DASHBOARD</u>
 
 This project analyzes customer shopping behavior and visualizes insights using an interactive dashboard.
 The dashboard highlights key metrics such as revenue, sales distribution, subscription trends, and demographic performance.
