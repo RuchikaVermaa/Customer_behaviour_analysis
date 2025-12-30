@@ -16,21 +16,16 @@ The aim is to derive actionable business insights and present them through a pro
 
 Understand customer purchasing behaviour
 
-Analyze revenue and sales trends across product categories
-
-Evaluate the impact of subscription status on customer spending
-
-Identify high-performing age groups and product categories
-
-Develop an interactive dashboard for business decision-making
+-Analyze revenue and sales trends across product categories
+-Evaluate the impact of subscription status on customer spending
+-Identify high-performing age groups and product categories
+-Develop an interactive dashboard for business decision-making
 
 ## 🛠️ Tools & Technologies Used
 
-Python (Jupyter Notebook) – Data cleaning, preprocessing, and analysis
-
-SQL (PostgreSQL) – Data querying and aggregation
-
-Power BI – Data visualization and dashboard development
+-Python (Jupyter Notebook) – Data cleaning, preprocessing, and analysis
+-SQL (PostgreSQL) – Data querying and aggregation
+-Power BI – Data visualization and dashboard development
 
 ## 📂 Project Structure
 Customer-Behaviour-Analysis/
@@ -44,81 +39,39 @@ Customer-Behaviour-Analysis/
 ├── customer_shopping_behavior.csv
 └── README.md
 
-## 📊 Dataset Description
-
-The dataset contains customer shopping information such as:
-
-Gender
-
-Age
-
-Product Category
-
-Subscription Status
-
-Shipping Type
-
-Purchase Amount
-
-Review Ratings
-
 ## 📈 Analysis Performed
 
-Data cleaning and validation
-
-Exploratory data analysis (EDA)
-
-Customer segmentation by age, gender, and subscription status
-
-Revenue and sales analysis by product category
-
-Comparative analysis between subscribed and non-subscribed customers
+-Data cleaning and validation
+-Exploratory data analysis (EDA)
+-Customer segmentation by age, gender, and subscription status
+-Revenue and sales analysis by product category
+-Comparative analysis between subscribed and non-subscribed customers
 
 ## 📊 Power BI Dashboard
 
 The interactive Power BI dashboard provides insights into:
 
-Total number of customers
-
-Average review rating
-
-Average purchase amount
-
-Revenue and sales by product category
-
-Sales and revenue by age group
-
-Subscription status distribution
-
-## 🔎 Dashboard Features
-
-Dynamic slicers for:
-
-Gender
-
-Category
-
-Subscription Status
-
-Shipping Type
+-Total number of customers
+-Average review rating
+-Average purchase amount
+-Revenue and sales by product category
+-Sales and revenue by age group
+-Subscription status distribution
 
 
 ## 🔍 Key Insights
 
-Non-subscribed customers represent the majority, while subscribed customers show higher purchasing consistency
-
-The Clothing category generates the highest revenue and sales
-
-Specific age groups contribute significantly to overall revenue
-
-Subscription status strongly influences purchasing behavior
+-Non-subscribed customers represent the majority, while subscribed customers show higher purchasing consistency
+-The Clothing category generates the highest revenue and sales
+-Specific age groups contribute significantly to overall revenue
+-Subscription status strongly influences purchasing behavior
 
 ## 🚀 Conclusion
 
 This project demonstrates an end-to-end data analytics workflow, combining Python, SQL, and Power BI to convert raw data into meaningful business insights.
 It highlights strong skills in data analysis, visualization, and business understanding.
 
-👩‍💻 Author
+ ## 👩‍💻 Author
 
 Ruchika Verma
 📧 Email:ruchikaverma.workk@gmail.com
