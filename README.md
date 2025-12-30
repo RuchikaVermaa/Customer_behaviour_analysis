@@ -26,9 +26,17 @@ Understand customer purchasing behaviour
 
 ## 🛠️ Tools & Technologies Used
 
--Python (Jupyter Notebook) – Data cleaning, preprocessing, and analysis
--SQL (PostgreSQL) – Data querying and aggregation
--Power BI – Data visualization and dashboard development
+--Python (Jupyter Notebook)
+
+-– Data cleaning, preprocessing, and analysis
+
+--SQL (PostgreSQL)
+
+-– Data querying and aggregation
+
+--Power BI
+
+-– Data visualization and dashboard development
 
 ## 📂 Project Structure
 Customer-Behaviour-Analysis/
