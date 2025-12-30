@@ -52,30 +52,42 @@ Customer-Behaviour-Analysis/
 
 ## 📈 Analysis Performed
 
--Data cleaning and validation
--Exploratory data analysis (EDA)
--Customer segmentation by age, gender, and subscription status
--Revenue and sales analysis by product category
--Comparative analysis between subscribed and non-subscribed customers
+--Data cleaning and validation
+
+--Exploratory data analysis (EDA)
+
+--Customer segmentation by age, gender, and subscription status
+
+--Revenue and sales analysis by product category
+
+--Comparative analysis between subscribed and non-subscribed customers
 
 ## 📊 Power BI Dashboard
 
 The interactive Power BI dashboard provides insights into:
 
--Total number of customers
--Average review rating
--Average purchase amount
--Revenue and sales by product category
--Sales and revenue by age group
--Subscription status distribution
+--Total number of customers
+
+--Average review rating
+
+--Average purchase amount
+
+--Revenue and sales by product category
+
+--Sales and revenue by age group
+
+--Subscription status distribution
 
 
 ## 🔍 Key Insights
 
--Non-subscribed customers represent the majority, while subscribed customers show higher purchasing consistency
--The Clothing category generates the highest revenue and sales
--Specific age groups contribute significantly to overall revenue
--Subscription status strongly influences purchasing behavior
+--Non-subscribed customers represent the majority, while subscribed customers show higher purchasing consistency
+
+--The Clothing category generates the highest revenue and sales
+
+--Specific age groups contribute significantly to overall revenue
+
+--Subscription status strongly influences purchasing behavior
 
 ## 🚀 Conclusion
 
@@ -85,5 +97,7 @@ It highlights strong skills in data analysis, visualization, and business unders
  ## 👩‍💻 Author
 
 Ruchika Verma
+
 📧 Email:ruchikaverma.workk@gmail.com
+
 🔗 LinkedIn: https://www.linkedin.com/in/ruchika-verma-1ab509357/
