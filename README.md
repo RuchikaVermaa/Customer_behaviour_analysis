@@ -5,8 +5,8 @@ Data analytics project showcasing customer behaviour analysis python ,sql and po
 
 This project analyzes customer shopping behavior and visualizes insights using an interactive dashboard.
 The dashboard highlights key metrics such as revenue, sales distribution, subscription trends, and demographic performance.
+![Customer Behaviour Dashboard](customer_dashboard.jpeg)
 
-![Customer Behaviour Dashboard](Customer behaviour dashboard screenshot.jpeg)
 
 
 #🎯 <u>Project Objective</u>
