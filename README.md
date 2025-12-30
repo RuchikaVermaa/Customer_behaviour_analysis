@@ -16,10 +16,13 @@ The aim is to derive actionable business insights and present them through a pro
 
 Understand customer purchasing behaviour
 
--Analyze revenue and sales trends across product categories
--Evaluate the impact of subscription status on customer spending
--Identify high-performing age groups and product categories
--Develop an interactive dashboard for business decision-making
+--Analyze revenue and sales trends across product categories
+
+--Evaluate the impact of subscription status on customer spending
+
+--Identify high-performing age groups and product categories
+
+--Develop an interactive dashboard for business decision-making
 
 ## 🛠️ Tools & Technologies Used
 
