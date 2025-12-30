@@ -42,12 +42,19 @@ Understand customer purchasing behaviour
 Customer-Behaviour-Analysis/
 │
 ├── Business Problem Document.pdf
+
 ├── Customer Shopping Behavior Analysis.pdf
+
 ├── CUSTOMER BEHAVIOUR DASHBOARD.pbix
+
 ├── Customer_behaviour_SQL_FILE.sql
+
 ├── Customer_behaviour.ipynb.pdf
+
 ├── customer_dashboard.jpeg
+
 ├── customer_shopping_behavior.csv
+
 └── README.md
 
 ## 📈 Analysis Performed
