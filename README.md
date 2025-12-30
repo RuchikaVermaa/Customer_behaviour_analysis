@@ -1,18 +1,19 @@
 # Customer_behaviour_analysis
 Data analytics project showcasing customer behaviour analysis python ,sql and power bi 
 
-📊 <u>CUSTOMER BEHAVIOUR DASHBOARD</u>
+#📊 <u>CUSTOMER BEHAVIOUR DASHBOARD</u>
 
 This project analyzes customer shopping behavior and visualizes insights using an interactive dashboard.
 The dashboard highlights key metrics such as revenue, sales distribution, subscription trends, and demographic performance.
 
-Customer behaviour dashboard screenshot.jpeg
+![Customer Behaviour Dashboard](Customer behaviour dashboard screenshot.jpeg)
 
-🎯 <u>Project Objective</u>
+
+#🎯 <u>Project Objective</u>
 
 To understand customer purchasing behavior and identify patterns that help improve decision-making in areas such as marketing strategy, product focus, and customer retention.
 
-🚀 <u>Key Insights & Features</u>
+#🚀 <u>Key Insights & Features</u>
 
 Total Customers — overall customer base
 
@@ -38,7 +39,7 @@ Power BI / Dashboard Tool
 
 CSV Dataset
 
-📂 <u>Dataset Overview</u>
+#📂 <u>Dataset Overview</u>
 Column	Description
 Customer ID	Unique identifier
 Age	Customer age
@@ -64,7 +65,7 @@ Previous Purchases	Number of earlier orders
 4️⃣ Build visualizations
 5️⃣ Create interactive dashboard
 
-📦 <u>How to Use</u>
+#📦 <u>How to Use</u>
 
 Clone or download this repository
 
@@ -75,13 +76,9 @@ Open the dashboard file to interact with visuals
 Use filters to explore insights
 
 
-👩‍💻 <u>Author</u>
+#👩‍💻 <u>Author</u>
 
 Ruchika Verma
-Data Analytics | Business Insights | Dashboard Storytelling
-LinkedIn: https://www.linkedin.com/in/ruchika-verma-1ab509357/
-Mail: ruchikaverma.workk@gmail.com
+📧 Email: (ruchikaverma.workk@gmail.com)
+🔗 LinkedIn: (https://www.linkedin.com/in/ruchika-verma-1ab509357/)
 
-📧 Email: (add your preferred email)
-🔗 LinkedIn: (add link here)
-🐙 GitHub: (add link here)
