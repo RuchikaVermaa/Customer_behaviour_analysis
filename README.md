@@ -5,80 +5,121 @@ Data analytics project showcasing customer behaviour analysis python ,sql and po
 
 This project analyzes customer shopping behavior and visualizes insights using an interactive dashboard.
 The dashboard highlights key metrics such as revenue, sales distribution, subscription trends, and demographic performance.
+
 ![Customer Behaviour Dashboard](customer_dashboard.jpeg)
+## 📌 Project Overview
+
+This project focuses on analyzing customer behaviour and shopping patterns using Python (Jupyter Notebook), SQL (PostgreSQL), and Power BI.
+The aim is to derive actionable business insights and present them through a professional and interactive dashboard.
+
+## 🎯 Objectives
+
+Understand customer purchasing behaviour
+
+Analyze revenue and sales trends across product categories
+
+Evaluate the impact of subscription status on customer spending
+
+Identify high-performing age groups and product categories
+
+Develop an interactive dashboard for business decision-making
+
+## 🛠️ Tools & Technologies Used
+
+Python (Jupyter Notebook) – Data cleaning, preprocessing, and analysis
+
+SQL (PostgreSQL) – Data querying and aggregation
+
+Power BI – Data visualization and dashboard development
+
+## 📂 Project Structure
+Customer-Behaviour-Analysis/
+│
+├── Business Problem Document.pdf
+├── Customer Shopping Behavior Analysis.pdf
+├── CUSTOMER BEHAVIOUR DASHBOARD.pbix
+├── Customer_behaviour_SQL_FILE.sql
+├── Customer_behaviour.ipynb.pdf
+├── customer_dashboard.jpeg
+├── customer_shopping_behavior.csv
+└── README.md
+
+## 📊 Dataset Description
+
+The dataset contains customer shopping information such as:
+
+Gender
+
+Age
+
+Product Category
+
+Subscription Status
+
+Shipping Type
+
+Purchase Amount
+
+Review Ratings
+
+## 📈 Analysis Performed
+
+Data cleaning and validation
+
+Exploratory data analysis (EDA)
+
+Customer segmentation by age, gender, and subscription status
+
+Revenue and sales analysis by product category
+
+Comparative analysis between subscribed and non-subscribed customers
+
+## 📊 Power BI Dashboard
+
+The interactive Power BI dashboard provides insights into:
+
+Total number of customers
+
+Average review rating
+
+Average purchase amount
+
+Revenue and sales by product category
+
+Sales and revenue by age group
+
+Subscription status distribution
+
+## 🔎 Dashboard Features
+
+Dynamic slicers for:
+
+Gender
+
+Category
+
+Subscription Status
+
+Shipping Type
 
 
+## 🔍 Key Insights
 
-#🎯 <u>Project Objective</u>
+Non-subscribed customers represent the majority, while subscribed customers show higher purchasing consistency
 
-To understand customer purchasing behavior and identify patterns that help improve decision-making in areas such as marketing strategy, product focus, and customer retention.
+The Clothing category generates the highest revenue and sales
 
-#🚀 <u>Key Insights & Features</u>
+Specific age groups contribute significantly to overall revenue
 
-Total Customers — overall customer base
+Subscription status strongly influences purchasing behavior
 
-Average Review Rating — satisfaction indicator
+## 🚀 Conclusion
 
-Average Purchase Amount — spending trend
+This project demonstrates an end-to-end data analytics workflow, combining Python, SQL, and Power BI to convert raw data into meaningful business insights.
+It highlights strong skills in data analysis, visualization, and business understanding.
 
-Subscription Analysis — % customers with/without subscriptions
-
-Revenue by Category — Clothing, Accessories, Footwear, Outerwear
-
-Sales by Category — quantity comparison
-
-Revenue by Age Group
-
-Sales by Age Group
-
-🛠️ <u>Tools & Technologies</u>
-
-Python (Pandas, Jupyter Notebook)
-
-Power BI / Dashboard Tool
-
-CSV Dataset
-
-#📂 <u>Dataset Overview</u>
-Column	Description
-Customer ID	Unique identifier
-Age	Customer age
-Gender	Male / Female
-Item Purchased	Product purchased
-Category	Product category
-Purchase Amount (USD)	Transaction value
-Location	Customer location
-Size	Purchased size
-Color	Product color
-Season	Season of purchase
-Review Rating	Customer review
-Subscription Status	Yes / No
-Shipping Type	Delivery method
-Discount Applied	Yes / No
-Promo Code Used	Yes / No
-Previous Purchases	Number of earlier orders
-🔍 <u>Project Workflow</u>
-
-1️⃣ Import & explore the dataset
-2️⃣ Clean and preprocess data
-3️⃣ Analyze patterns and trends
-4️⃣ Build visualizations
-5️⃣ Create interactive dashboard
-
-#📦 <u>How to Use</u>
-
-Clone or download this repository
-
-Open the notebook to explore the data
-
-Open the dashboard file to interact with visuals
-
-Use filters to explore insights
-
-
-#👩‍💻 <u>Author</u>
+👩‍💻 Author
 
 Ruchika Verma
-📧 Email: (ruchikaverma.workk@gmail.com)
-🔗 LinkedIn: (https://www.linkedin.com/in/ruchika-verma-1ab509357/)
-
+📧 Email:ruchikaverma.workk@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/ruchika-verma-1ab509357/
