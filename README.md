@@ -1,5 +1,5 @@
 # Customer_behaviour_analysis
-Data analytics project showcasing customer behaviour analysis python ,sql and power bi 
+Data analytics project showcasing customer behaviour analysis using python ,sql and power bi 
 
 ## 📊  <u>CUSTOMER BEHAVIOUR DASHBOARD</u>
 
